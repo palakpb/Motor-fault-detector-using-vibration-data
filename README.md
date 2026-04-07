@@ -32,3 +32,12 @@ motors using vibration signal analysis.
 
 🚀 Live Demo
 👉 [Click here to view the app](YOUR_STREAMLIT_LINK_HERE)
+
+ Key Concepts Used
+- Signal processing with FFT
+- Supervised classification with Random Forest
+- Model serialization with Pickle
+- Web deployment with Streamlit Cloud
+
+Contact
+Feel free to connect with me on LinkedIn!
