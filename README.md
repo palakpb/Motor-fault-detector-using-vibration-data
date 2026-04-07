@@ -31,7 +31,7 @@ motors using vibration signal analysis.
 - Model performance metrics visible in the live app
 
 🚀 Live Demo
-👉 [Click here to view the app](YOUR_STREAMLIT_LINK_HERE)
+👉 [Click here to view the app](https://motor-fault-detector-using-vibration-data.streamlit.app/)
 
  Key Concepts Used
 - Signal processing with FFT
